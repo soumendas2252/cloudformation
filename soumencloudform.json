@@ -11,6 +11,12 @@
                 "Ref": "S3Bucket"
             },
             "Description": "Name of the sample Amazon S3 bucket"
+        },
+        "BucketName2": {
+            "Value": {
+                "Ref": "S3Bucket"
+            },
+            "Description": "Name of the sample Amazon S3 bucket"
         }
     }
 }
