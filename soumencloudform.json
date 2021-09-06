@@ -11,7 +11,7 @@
                 "Ref": "S3Bucket"
             },
             "Description": "Name of the sample Amazon S3 bucket.",
-            "Custom Output" : "Hey there, Soumen"
+            "CustomOutput" : "Hey there, Soumen"
         }
     }
 }
